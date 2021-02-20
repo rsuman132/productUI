@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Product UI</string>
+    <string name="description">Description</string>
+    <string name="lorem_ipsum">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don\'t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn\'t anything embarrassing hidden in the middle of text.</string>
+    <string name="terra">Terra Former Tractor Light Performer Dirt</string>
+    <string name="review">2 Reviews</string>
+    <string name="available_item">15 Available</string>
+    <string name="specification">Specification</string>
+    <string name="type">Type</string>
+    <string name="recommend">Recommended Products</string>
+    <string name="price">₹ 2,545</string>
+    <string name="review_heading">Reviews</string>
+    <string name="albert">Albert Flores</string>
+    <string name="date">20 April, 2020</string>
+    <string name="related_items">Related Product</string>
+    <string name="relate_name">Name</string>
+</resources>
